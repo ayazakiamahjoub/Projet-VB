@@ -1,0 +1,16 @@
+[
+  {
+    "NumVol": "AF123",
+    "Destination": "Paris",
+    "DateHeure": "2024-12-29T10:30:00",
+    "PlacesDisponibles": 50,
+    "Prix": 199.99
+  },
+  {
+    "NumVol": "AF456",
+    "Destination": "New York",
+    "DateHeure": "2024-12-30T12:45:00",
+    "PlacesDisponibles": 100,
+    "Prix": 299.99
+  }
+]
